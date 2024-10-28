@@ -3,8 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-.idea/
-
 # User-specific files
 *.rsuser
 *.suo
@@ -33,6 +31,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+# Ignore JetBrains Rider/IntelliJ IDEA project settings
+.idea/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
